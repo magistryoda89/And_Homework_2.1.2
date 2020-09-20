@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">And_Homework_2.1.2</string>
+    <string name="btn_ok_text">Show address</string>
+
+    <string-array name="countries">
+        <item>Russia</item>
+        <item>Ukraine</item>
+        <item>Belarus</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Moscow</item>
+        <item>St.-Petersburg</item>
+        <item>Vladivostok</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Kiev</item>
+        <item>Kharkov</item>
+        <item>Odessa</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Minsk</item>
+        <item>Gomel</item>
+        <item>Torzhok</item>
+    </string-array>
+</resources>
